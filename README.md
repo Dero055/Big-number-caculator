@@ -22,7 +22,7 @@
   **i. Các toán tử:** AND “&”, OR “|”, XOR “^”, NOT “~”
 
   **j. Các toán tử:** dịch trái “<<”, dịch phải “>>”, xoay trái: “rol”, xoay phải: “ror”
-
+---
 ### 2. Số nguyên lớn
   **a. Hàm Nhập:** void ScanQfloat (Qfloat &x)
 
