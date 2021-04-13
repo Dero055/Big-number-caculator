@@ -2,7 +2,7 @@
 
 ## Đồ án: BIỂU DIỄN VÀ TÍNH TOÁN SỐ HỌC TRÊN MÁY TÍNH
 ### 1. Số nguyên lớn
----
+
    **a. Hàm Nhập:** void ScanQInt(QInt &x)
 
   **b. Hàm xuất:** void PrintQInt( QInt x)
@@ -24,7 +24,7 @@
   **j. Các toán tử:** dịch trái “<<”, dịch phải “>>”, xoay trái: “rol”, xoay phải: “ror”
 
 ### 2. Số nguyên lớn
----
+
   **a. Hàm Nhập:** void ScanQfloat (Qfloat &x)
 
   **b. Hàm xuất:** void PrintQfloat( Qfloat x)
@@ -32,3 +32,6 @@
   **c. Hàm chuyển đổi số Qfloat nhị phân sang thập phân:** Qfloat BinToDec(bool *bit)
 
   **d. Hàm chuyển đổi số Qfloat thập phân sang nhị phân:** bool *DecToBin(Qfloat x)
+---
+
+**Email:** nguyendochithao@gmail.com
