@@ -32,6 +32,6 @@
   **c. Hàm chuyển đổi số Qfloat nhị phân sang thập phân:** Qfloat BinToDec(bool *bit)
 
   **d. Hàm chuyển đổi số Qfloat thập phân sang nhị phân:** bool *DecToBin(Qfloat x)
+  
 ---
-
 **Email:** nguyendochithao@gmail.com
